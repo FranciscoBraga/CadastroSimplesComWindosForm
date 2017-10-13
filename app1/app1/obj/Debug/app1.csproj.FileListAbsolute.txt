@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\app1.exe.config
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\app1.exe
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\app1.pdb
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.Form1.resources
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.exe
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.pdb
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\Properties\ContatoBD.mdf
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\Properties\ContatoBD_log.ldf
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\app1.exe.manifest
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\bin\Debug\app1.application
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.exe.manifest
+C:\Users\ASUS\source\repos\primeiroAplicativo\app1\app1\obj\Debug\app1.application
